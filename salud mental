@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Blog de Salud Mental</title>
+  <style>
+    /* Estilos CSS para el diseño del blog */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    main {
+      margin: 20px;
+    }
+    
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Blog de Salud Mental</h1>
+  </header>
+  
+  <main>
+    <article>
+      <h2>Importancia de cuidar nuestra salud mental</h2>
+      <p>La salud mental es un aspecto fundamental de nuestra vida.<br> En un mundo cada vez más ocupado y estresante, es esencial prestar atención a nuestro bienestar psicológico. A continuación, exploraremos algunas estrategias para cuidar nuestra salud mental:</p>
+      
+      <h3>1. Practicar la autocompasión</h3>
+      <p>Es importante ser amables con nosotros mismos y reconocer que todos enfrentamos desafíos y cometer errores. Practicar la autocompasión nos ayuda a desarrollar una actitud más positiva hacia nosotros mismos y a manejar el estrés de manera saludable.</p>
+      
+      <h3>2. Establecer límites</h3>
+      <p>Aprender a decir "no" cuando sea necesario y establecer límites claros en nuestras relaciones y actividades nos ayuda a evitar el agotamiento emocional. Es fundamental priorizar nuestro tiempo y energía.</p>
+      
+      <h3>3. Buscar apoyo social</h3>
+      <p>Contar con una red de apoyo sólida puede marcar la diferencia en nuestra salud mental. Mantener conexiones significativas con amigos y familiares, e incluso considerar la posibilidad de unirse a grupos de apoyo, puede brindarnos un sentido de pertenencia y bienestar emocional.</p>
+      
+      <img src=https://veracruz.uo.edu.mx/sites/default/files/Salud%20mental.png>
+      
+      <h3>4. Practicar técnicas de relajación</h3>
+      <p>La relajación es clave para reducir el estrés y mejorar nuestra salud mental. Algunas técnicas efectivas incluyen la meditación, la respiración profunda, el yoga y el ejercicio regular.</p>
+      
+      <h3>5. Buscar ayuda profesional</h3>
+      <p>Si nos encontramos luchando con problemas de salud mental, no debemos dudar en buscar ayuda profesional. Los terapeutas y psicólogos están capacitados para brindar apoyo y guía en momentos difíciles.</p>
+      
+      <img src=https://img.freepik.com/vector-premium/infeliz-hombre-acostado-sofa-cita-psicologo-obtener-ayuda-profesional-medico-especialista-hablando-paciente-sobre-problemas-salud-mental-escribiendo-ilustracion-plana-dibujos-animados-cuaderno_1016-2107.jpg?w=826>
+      
+      <p>Recuerda que cuidar de nuestra salud mental es un proceso continuo y personal. No existe una fórmula única, pero al dedicar tiempo y atención a nuestro bienestar emocional, podemos mejorar nuestra calidad de vida y disfrutar de una mayor felicidad.</p>
+    </article>
+  </main>
+  
+  <footer>
+    <p>Blog de Salud Mental</a></p>
+  </footer>
+</body>
+</html>
+
